@@ -30,7 +30,7 @@
         "zendframework/zendframework": "~2.1"
     },
     "suggest": {
-        "webdevgods/wdg-doctrine": "Base set of libraries for using doctrine.",
+        "webdevgods/wdg-doctrine2": "Base set of libraries for using doctrine.",
         "webdevgods/wdg-base": "Base set of libraries for general php deeds."
     },
     "autoload": {
